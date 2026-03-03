@@ -12,7 +12,7 @@ class: invert
 
 * Tomasz Domżalski
 * tomdom@gumed.edu.pl
-* Wesoły doktorant ![](images/yup.png)
+* Wesoły doktorant ! [](images/yup.png)
 * pomoże jak może
 * Tuwima 15, pokój 312
 
@@ -30,7 +30,7 @@ class: invert
 
 * Co to jest plik?
 * Czym jest folder/ścieżka do folderu?
-* Podstawowe operacje na plikach i folderach. How to copy, move, rename files and folders?
+* Podstawowe operacje na plikach i folderach.
 * Czym jest rozszerzenie pliku _extension_?
 * Czym jest plik tekstowy? Jak go otworzyć? Zobaczcie [here](https://www.youtube.com/watch?v=H7R0LN41N8c)
 
@@ -292,7 +292,7 @@ Python jest interpretowanym językiem wysokiego poziomu.
 
 * Interpretowany - programy w Pythonie są skryptami, które nie muszą być kompilowane.
 * Interpretowany - trzeba mieć dostęp do interpretera, aby móc odpalić kod.
-* Interpretowany - oznacza to, że Python the konwertowany na kod maszynowy poprzez interpreter.
+* Interpretowany - oznacza to, że Python konwertowany na kod maszynowy poprzez interpreter.
 * High-level - nie trzeba martwić się alokacją pamięci, dostępem do danych, komunikacją z hardwearem.
 
 ---

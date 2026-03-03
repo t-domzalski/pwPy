@@ -4,6 +4,18 @@ Strona fakultetu Programowanie w Pythonie [ID fakultetu: 12441]
 
 Zajęcia odbywają się zdalnie we **wtorki od 12:30 do 14:00** na platformie Microsoft Teams.
 
+## Aktualności
+
+Kurs na Moodlu już powinien być widoczny. Instrukcja do Zadania 1 też już jest. Załadujcie je na Moodla, w razie problemów piszcie maile.
+
+## Zadania
+
+- [Zadanie 1](tasks/t01.md)
+
+## Slajdy
+
+[prezentacja](slajdy.html)
+
 ## Syllabus
 
 [Tutaj](https://esyllabus.gumed.edu.pl/subjects/35000/fetch_document/PL)
@@ -18,6 +30,9 @@ Zajęcia odbywają się zdalnie we **wtorki od 12:30 do 14:00** na platformie Mi
 - <https://www.udemy.com/learn-python-programming-and-cryptocurrency-data-analysis/?src=sac&kw=python>
 - <https://www.datacamp.com>
 - <https://youtube.com/>
+
+## Markdown
+- <https://www.markdownguide.org/basic-syntax/>
 
 ## Kontakt
 
