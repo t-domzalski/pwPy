@@ -6,11 +6,12 @@ Zajęcia odbywają się zdalnie we **wtorki od 12:30 do 14:00** na platformie Mi
 
 ## Aktualności
 
-Kurs na Moodlu już powinien być widoczny. Instrukcja do Zadania 1 też już jest. Załadujcie je na Moodla, w razie problemów piszcie maile.
+Zadanie 2 już jest. Skrypt z zajęć pojawi się na dniach, przeczyszczę go tylko trochę :)
 
 ## Zadania
 
 - [Zadanie 1](tasks/t01.md)
+- [Zadanie 2](tasks/t02.md)
 
 ## Slajdy
 
