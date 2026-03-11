@@ -13,6 +13,10 @@ Zadanie 2 już jest. Skrypt z zajęć pojawi się na dniach, przeczyszczę go ty
 - [Zadanie 1](tasks/t01.md)
 - [Zadanie 2](tasks/t02.md)
 
+## Skrypty z zajęć
+
+- [Zajęcia 10.03.2026](scripts/pwpy_2.ipynb)
+
 ## Slajdy
 
 [prezentacja](slajdy.html)
