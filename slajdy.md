@@ -42,7 +42,7 @@ class: invert
 * Można ominąć **4 spotkania**, odrobić trzeba je we własnym zakresie
 * Zapraszam do używania kamerek
 * Mniej więcej co tydzień będzie _zadanie_ do zrobienia, ze sztywnym terminem na jego realizację, będzie to tydzień
-* minus 1 pkt za każdy dzień opóźnienia
+* Każde zadanie maksymalnie na 100%, z każdym dniem zwłoki - 10% od ostatecznego wyniku.
 * Zaliczenie fakultetu będzie wymagało uzbierania 60% wszystkich możliwych punktów z wszystkich zadań
 * Zadania będą do załadowania na kursie w moodlu
 
