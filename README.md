@@ -13,6 +13,7 @@ Zadanie 3 już jest. Skrypt z zajęć pojawi się na dniach, przeczyszczę go ty
 - [Zadanie 1](tasks/t01.md)
 - [Zadanie 2](tasks/t02.md)
 - [Zadanie 3](tasks/t03.md)
+- [Zadanie 4](tasks/t04.md)
 
 ## Skrypty z zajęć
 
