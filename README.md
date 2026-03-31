@@ -19,7 +19,9 @@ Zadanie 3 już jest. Skrypt z zajęć pojawi się na dniach, przeczyszczę go ty
 
 - [Zajęcia 10.03.2026](https://github.com/t-domzalski/pwPy/blob/main/scripts/pwpy_2.ipynb)
 - [Zajęcia 17.03.2026](https://github.com/t-domzalski/pwPy/blob/main/scripts/pwpy_3.ipynb)
-  
+- [Zajęcia 24.03.2026](https://github.com/t-domzalski/pwPy/blob/main/scripts/pwpy_4.ipynb)
+- [Zajęcia 31.03.2026](https://github.com/t-domzalski/pwPy/blob/main/scripts/pwpy_5.ipynb)
+
 ## Slajdy
 
 [prezentacja](slajdy.html)
