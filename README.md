@@ -6,7 +6,7 @@ Zajęcia odbywają się zdalnie we **wtorki od 12:30 do 14:00** na platformie Mi
 
 ## Aktualności
 
-Zadanie 3 już jest. Skrypt z zajęć pojawi się na dniach, przeczyszczę go tylko trochę :)
+Skrypt z 14/04 będzie wrzucony na stronę po następnych zajęciach.
 
 ## Zadania
 
@@ -14,6 +14,7 @@ Zadanie 3 już jest. Skrypt z zajęć pojawi się na dniach, przeczyszczę go ty
 - [Zadanie 2](tasks/t02.md)
 - [Zadanie 3](tasks/t03.md)
 - [Zadanie 4](tasks/t04.md)
+- [Zadanie 5](tasks/t05.md)
 
 ## Skrypty z zajęć
 
