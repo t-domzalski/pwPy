@@ -24,6 +24,7 @@ Zajęcia odbywają się zdalnie we **wtorki od 12:30 do 14:00** na platformie Mi
 - [Zajęcia 24.03.2026](https://github.com/t-domzalski/pwPy/blob/main/scripts/pwpy_4.ipynb)
 - [Zajęcia 31.03.2026](https://github.com/t-domzalski/pwPy/blob/main/scripts/pwpy_5.ipynb)
 - [Zajęcia 14&21.04.2026](https://github.com/t-domzalski/pwPy/blob/main/scripts/pwpy_6.ipynb)
+- [Zajęcia 28.04.2026](https://github.com/t-domzalski/pwPy/blob/main/scripts/pwpy_7.ipynb)
 
 ## Slajdy
 
