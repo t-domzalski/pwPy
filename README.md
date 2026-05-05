@@ -16,6 +16,7 @@ Zajęcia odbywają się zdalnie we **wtorki od 12:30 do 14:00** na platformie Mi
 - [Zadanie 4](tasks/t04.md)
 - [Zadanie 5](tasks/t05.md)
 - [Zadanie 6](tasks/t06.md)
+- [Zadanie 7](tasks/t07.md)
 
 ## Skrypty z zajęć
 
@@ -25,6 +26,7 @@ Zajęcia odbywają się zdalnie we **wtorki od 12:30 do 14:00** na platformie Mi
 - [Zajęcia 31.03.2026](https://github.com/t-domzalski/pwPy/blob/main/scripts/pwpy_5.ipynb)
 - [Zajęcia 14&21.04.2026](https://github.com/t-domzalski/pwPy/blob/main/scripts/pwpy_6.ipynb)
 - [Zajęcia 28.04.2026](https://github.com/t-domzalski/pwPy/blob/main/scripts/pwpy_7.ipynb)
+- [Zajęcia 05.05.2026](https://github.com/t-domzalski/pwPy/blob/main/scripts/pwpy_8.ipynb)
 
 ## Slajdy
 
